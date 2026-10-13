@@ -10,8 +10,6 @@ Este repositorio contiene el análisis realizado durante el Sprint 7 para audita
 
 Haz clic en el siguiente botón:
 
-Haz clic en el siguiente botón:
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TvS8kGSfeLpiM5eM33fKQvNeBfYprN-h?usp=sharing)
 
 O también puedes usar este enlace directo: [Abrir en Google Colab](https://colab.research.google.com/drive/1TvS8kGSfeLpiM5eM33fKQvNeBfYprN-h?usp=sharing)
